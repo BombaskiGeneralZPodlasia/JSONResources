@@ -1,14 +1,14 @@
 {
-  "[1]": {
-    "[caption]": "Podpis 1",
-    "[ImageURL]": "https://images.chesscomfiles.com/chess-themes/boards/green/50.png"
+  "1": {
+    "caption": "Podpis 1",
+    "ImageURL": "https://images.chesscomfiles.com/chess-themes/boards/green/50.png"
   },
-  "[2]": {
-    "[caption]": "Podpis 1",
-    "[ImageURL]": "https://images.chesscomfiles.com/chess-themes/boards/green/50.png"
+  "2": {
+    "caption": "Podpis 1",
+    "ImageURL": "https://images.chesscomfiles.com/chess-themes/boards/green/50.png"
   },
-  "[3]": {
-    "[caption]": "Podpis 1",
-    "[ImageURL]": "https://images.chesscomfiles.com/chess-themes/boards/green/50.png"
+  "3": {
+    "caption": "Podpis 1",
+    "ImageURL": "https://images.chesscomfiles.com/chess-themes/boards/green/50.png"
   }
 }
